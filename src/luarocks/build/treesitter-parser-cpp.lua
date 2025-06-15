@@ -72,7 +72,6 @@ end
 ---@return boolean | nil success
 ---@return string | nil error_message
 local function run(rockspec, no_install)
-	assert(rockspec:type() == "rockspec")
 	local compile_object, compile_library
 
 	local build = rockspec.build
