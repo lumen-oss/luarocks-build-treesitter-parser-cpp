@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.6](https://github.com/lumen-oss/luarocks-build-treesitter-parser-cpp/compare/v2.0.5...v2.0.6) (2026-01-07)
+
+
+### Bug Fixes
+
+* stop using deprecated --no-generate flag ([8042234](https://github.com/lumen-oss/luarocks-build-treesitter-parser-cpp/commit/80422345a3f3e1fd8263d8fbcaed6ef2ed1145a4))
+
 ## [2.0.5](https://github.com/nvim-neorocks/luarocks-build-treesitter-parser-cpp/compare/v2.0.4...v2.0.5) (2025-06-15)
 
 
